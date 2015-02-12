@@ -1,7 +1,7 @@
 =head
 Product Name : Crazy Downloader
 Version		 : v1.2
-Author		 : BeBinary(A.K.A Allwyn) & Mohammed Monis
+Author		 : BeBinary(A.K.A Allwyn) & Mohammad Monis
 URL 		 : http://sourceforge.net/projects/crazydownloader/  	 
 Description  : 
 		1. Helps you to download multiple files at a time
